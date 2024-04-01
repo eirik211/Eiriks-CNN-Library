@@ -6,7 +6,7 @@ It is very slow and not a novum, but it works and back then, it was a huge achie
 
 ### Example usage
 
-```
+```python
 # X being the training data converted to sensible np matrices
 # Y being the training data labels, a list of vectors containing the desired output values (0 - 1)
 net = NeuralNetwork([
